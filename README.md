@@ -20,17 +20,21 @@ The original filters implementations can be found [here](https://github.com/phil
 The data set used can be found [here](https://archive.ics.uci.edu/ml/datasets/BLE+RSSI+dataset+for+Indoor+localization).
 
 Other references:
+
 [1] H. Liu, H. Darabi, P. Banerjee, and J. Liu, “Survey of wireless indoor positioning techniques
 and systems,” IEEE Transactions on Systems, Man and Cybernetics Part C: Applications and Re-
 views, vol. 37, no. 6, pp. 1067–1080, 2007.
+
 [2] P. Bellavista, A. Corradi, and C. Giannelli, “Evaluating filtering strategies for decentralized
 handover prediction in the wireless internet,” 11th IEEE Symposium on Computers and Commu-
 nications (ISCC’06), pp. 167–174, 2006.
+
 [3] A. Mussina and S. Aubakirov, “Rssi based bluetooth low energy indoor positioning,” 2018
 IEEE 12th International Conference on Application of Information and Communication Technologies
 (AICT), pp. 1–4, 2018.
+
 [4] E. Kayacan, B. Ulutas, and O. Kaynak, “Grey system theory-based models in time series pre-
 diction,” Expert Systems with Applications, vol. 37, pp. 1784–1789, 03 2010.
+
 [5] M. Laaraiedh, “Implementation of kalman filter with python language,” The Python Papers,
 2012.
-
