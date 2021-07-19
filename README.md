@@ -9,9 +9,9 @@ Three filters have been developed and used:
 - Fourier filter;
 - particle filter.
 
-The [PDF](https://github.com/peppekristen/RSSI_Filtering/tree/main/) explains the context of application and goes deeply into the datails of the project.
+The [PDF](https://github.com/peppekristen/RSSI_Filtering/blob/main/Improving_Indoor_Localization_using_Filtering.pdf) explains the context of application and goes deeply into the datails of the project.
 
-The [dataset folder](https://github.com/peppekristen/RSSI_Filtering/tree/main/) contains the raw data used, the clean data produced by the Preliminary Phase, and the resample data produced by the Resampling.
+The [dataset folder](https://github.com/peppekristen/RSSI_Filtering/tree/main/dataset) contains the raw data used, the clean data produced by the Preliminary Phase, and the resample data produced by the Resampling.
 
 ## References
 
